@@ -1,0 +1,31 @@
+body{background-color: rgb(138, 107, 167);
+    
+}
+form{ margin-left: 40%;
+    background-color: orange;
+    margin-right: 40%;
+    text-align: center;
+    border: solid;
+    border-radius: 20px;
+    width: 500px;
+
+}
+textarea{
+    width: 300px;
+    border: solid;
+    border-radius: 10px;
+    margin-left: 100px;
+}
+button{width: 200px;
+    margin-bottom: 200px;
+    background-color:greenyellow ;
+
+
+}
+.check{
+    text-align: left;
+    
+}
+.section{
+    text-align: center;
+}
